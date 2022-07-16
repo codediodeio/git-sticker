@@ -15,5 +15,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "install": "^0.13.0"
+  }
 }
